@@ -38,7 +38,6 @@ def most_used_letter
       biggest[key] = value
     end
   end
-
   biggest
 end
 
